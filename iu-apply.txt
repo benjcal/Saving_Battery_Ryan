@@ -1,0 +1,695 @@
+psys:             0.000 W
+dram:             0.000 W
+core:             0.000 W
+dram:             0.000 W
+package-0:        0.000 W
+uncore:           0.000 W
+package-0:        0.000 W
+
+Package id 0:    39.000°C
+Core 0:          36.000°C
+Core 1:          37.000°C
+Core 2:          35.000°C
+Core 3:          39.000°C
+Core 4:          35.000°C
+Core 5:          38.000°C
+
+Core 0:         819.407 MHz
+Core 1:         800.032 MHz
+Core 2:         800.085 MHz
+Core 3:         800.153 MHz
+Core 4:         800.256 MHz
+Core 5:        3868.251 MHz
+Core 6:        3907.732 MHz
+Core 7:        2005.038 MHz
+Core 8:        1114.977 MHz
+Core 9:         800.516 MHz
+Core 10:       2031.773 MHz
+Core 11:        800.140 MHz
+
+psys:             6.024 W
+dram:             1.174 W
+core:             0.313 W
+dram:             1.174 W
+package-0:        1.798 W
+uncore:           0.125 W
+package-0:        1.795 W
+
+Package id 0:    36.000°C
+Core 0:          34.000°C
+Core 1:          34.000°C
+Core 2:          33.000°C
+Core 3:          34.000°C
+Core 4:          34.000°C
+Core 5:          34.000°C
+
+Core 0:         803.082 MHz
+Core 1:         800.262 MHz
+Core 2:         856.099 MHz
+Core 3:         800.112 MHz
+Core 4:         800.614 MHz
+Core 5:         800.377 MHz
+Core 6:         862.063 MHz
+Core 7:         800.039 MHz
+Core 8:         800.025 MHz
+Core 9:         800.090 MHz
+Core 10:        800.029 MHz
+Core 11:        800.331 MHz
+
+psys:             5.590 W
+dram:             1.151 W
+core:             0.056 W
+dram:             1.151 W
+package-0:        1.431 W
+uncore:           0.045 W
+package-0:        1.432 W
+
+Package id 0:    36.000°C
+Core 0:          35.000°C
+Core 1:          34.000°C
+Core 2:          34.000°C
+Core 3:          34.000°C
+Core 4:          34.000°C
+Core 5:          34.000°C
+
+Core 0:         800.057 MHz
+Core 1:         800.310 MHz
+Core 2:         800.019 MHz
+Core 3:         800.091 MHz
+Core 4:         800.020 MHz
+Core 5:         800.302 MHz
+Core 6:         800.082 MHz
+Core 7:         800.025 MHz
+Core 8:         799.951 MHz
+Core 9:         799.008 MHz
+Core 10:        800.031 MHz
+Core 11:        800.249 MHz
+
+psys:             6.368 W
+dram:             1.201 W
+core:             0.151 W
+dram:             1.201 W
+package-0:        1.696 W
+uncore:           0.106 W
+package-0:        1.695 W
+
+Package id 0:    37.000°C
+Core 0:          35.000°C
+Core 1:          35.000°C
+Core 2:          34.000°C
+Core 3:          34.000°C
+Core 4:          34.000°C
+Core 5:          34.000°C
+
+Core 0:         800.105 MHz
+Core 1:         800.037 MHz
+Core 2:         800.042 MHz
+Core 3:         800.055 MHz
+Core 4:         800.089 MHz
+Core 5:         800.111 MHz
+Core 6:         800.025 MHz
+Core 7:         800.019 MHz
+Core 8:         800.049 MHz
+Core 9:         800.070 MHz
+Core 10:        800.023 MHz
+Core 11:        800.140 MHz
+
+psys:             7.985 W
+dram:             1.352 W
+core:             0.308 W
+dram:             1.353 W
+package-0:        2.340 W
+uncore:           0.514 W
+package-0:        2.339 W
+
+Package id 0:    37.000°C
+Core 0:          35.000°C
+Core 1:          35.000°C
+Core 2:          34.000°C
+Core 3:          34.000°C
+Core 4:          34.000°C
+Core 5:          34.000°C
+
+Core 0:         800.094 MHz
+Core 1:        1869.592 MHz
+Core 2:         800.026 MHz
+Core 3:        3525.523 MHz
+Core 4:         855.622 MHz
+Core 5:         799.970 MHz
+Core 6:         867.833 MHz
+Core 7:         800.050 MHz
+Core 8:         949.345 MHz
+Core 9:         800.044 MHz
+Core 10:        894.647 MHz
+Core 11:       1520.673 MHz
+
+psys:             9.525 W
+dram:             1.396 W
+core:             1.151 W
+dram:             1.394 W
+package-0:        4.117 W
+uncore:           1.455 W
+package-0:        4.117 W
+
+Package id 0:    36.000°C
+Core 0:          34.000°C
+Core 1:          35.000°C
+Core 2:          34.000°C
+Core 3:          34.000°C
+Core 4:          34.000°C
+Core 5:          35.000°C
+
+Core 0:        1309.868 MHz
+Core 1:         800.051 MHz
+Core 2:        1276.423 MHz
+Core 3:         798.364 MHz
+Core 4:         842.790 MHz
+Core 5:         799.710 MHz
+Core 6:        1350.292 MHz
+Core 7:         800.051 MHz
+Core 8:        1235.817 MHz
+Core 9:         800.019 MHz
+Core 10:        816.095 MHz
+Core 11:        800.087 MHz
+
+psys:             7.488 W
+dram:             1.307 W
+core:             0.213 W
+dram:             1.307 W
+package-0:        2.044 W
+uncore:           0.364 W
+package-0:        2.044 W
+
+Package id 0:    37.000°C
+Core 0:          34.000°C
+Core 1:          35.000°C
+Core 2:          34.000°C
+Core 3:          34.000°C
+Core 4:          34.000°C
+Core 5:          34.000°C
+
+Core 0:         800.123 MHz
+Core 1:         800.134 MHz
+Core 2:         800.024 MHz
+Core 3:         800.075 MHz
+Core 4:         800.099 MHz
+Core 5:         800.734 MHz
+Core 6:         800.087 MHz
+Core 7:         800.030 MHz
+Core 8:         800.084 MHz
+Core 9:         800.075 MHz
+Core 10:        800.021 MHz
+Core 11:        800.019 MHz
+
+psys:             5.788 W
+dram:             1.145 W
+core:             0.179 W
+dram:             1.146 W
+package-0:        1.565 W
+uncore:           0.044 W
+package-0:        1.565 W
+
+Package id 0:    36.000°C
+Core 0:          34.000°C
+Core 1:          34.000°C
+Core 2:          34.000°C
+Core 3:          33.000°C
+Core 4:          34.000°C
+Core 5:          34.000°C
+
+Core 0:         833.026 MHz
+Core 1:         800.420 MHz
+Core 2:        1484.794 MHz
+Core 3:         800.086 MHz
+Core 4:         889.033 MHz
+Core 5:         800.453 MHz
+Core 6:         800.034 MHz
+Core 7:         800.039 MHz
+Core 8:         877.620 MHz
+Core 9:         800.095 MHz
+Core 10:        940.676 MHz
+Core 11:        800.148 MHz
+
+psys:             5.405 W
+dram:             1.135 W
+core:             0.046 W
+dram:             1.134 W
+package-0:        1.375 W
+uncore:           0.033 W
+package-0:        1.375 W
+
+Package id 0:    36.000°C
+Core 0:          34.000°C
+Core 1:          34.000°C
+Core 2:          33.000°C
+Core 3:          34.000°C
+Core 4:          33.000°C
+Core 5:          34.000°C
+
+Core 0:         800.106 MHz
+Core 1:         800.135 MHz
+Core 2:         800.017 MHz
+Core 3:         800.066 MHz
+Core 4:         800.074 MHz
+Core 5:         800.152 MHz
+Core 6:         800.068 MHz
+Core 7:         800.044 MHz
+Core 8:         800.078 MHz
+Core 9:         800.100 MHz
+Core 10:        800.037 MHz
+Core 11:        800.010 MHz
+
+psys:             5.403 W
+dram:             1.138 W
+core:             0.060 W
+dram:             1.137 W
+package-0:        1.403 W
+uncore:           0.044 W
+package-0:        1.403 W
+
+Package id 0:    36.000°C
+Core 0:          34.000°C
+Core 1:          33.000°C
+Core 2:          34.000°C
+Core 3:          33.000°C
+Core 4:          34.000°C
+Core 5:          34.000°C
+
+Core 0:         800.037 MHz
+Core 1:         800.403 MHz
+Core 2:         800.020 MHz
+Core 3:         800.099 MHz
+Core 4:         800.094 MHz
+Core 5:         800.953 MHz
+Core 6:         800.051 MHz
+Core 7:         800.034 MHz
+Core 8:         800.064 MHz
+Core 9:         800.212 MHz
+Core 10:        800.039 MHz
+Core 11:        800.006 MHz
+
+psys:             5.917 W
+dram:             1.139 W
+core:             0.055 W
+dram:             1.140 W
+package-0:        1.475 W
+uncore:           0.034 W
+package-0:        1.475 W
+
+Package id 0:    36.000°C
+Core 0:          34.000°C
+Core 1:          34.000°C
+Core 2:          33.000°C
+Core 3:          33.000°C
+Core 4:          33.000°C
+Core 5:          34.000°C
+
+Core 0:         800.133 MHz
+Core 1:         800.254 MHz
+Core 2:         800.017 MHz
+Core 3:         800.087 MHz
+Core 4:         800.039 MHz
+Core 5:         800.167 MHz
+Core 6:         800.042 MHz
+Core 7:         800.049 MHz
+Core 8:         800.045 MHz
+Core 9:         799.161 MHz
+Core 10:        800.035 MHz
+Core 11:        800.086 MHz
+
+psys:             5.462 W
+dram:             1.139 W
+core:             0.055 W
+dram:             1.138 W
+package-0:        1.385 W
+uncore:           0.034 W
+package-0:        1.385 W
+
+Package id 0:    36.000°C
+Core 0:          34.000°C
+Core 1:          34.000°C
+Core 2:          33.000°C
+Core 3:          33.000°C
+Core 4:          33.000°C
+Core 5:          34.000°C
+
+Core 0:         800.126 MHz
+Core 1:         800.400 MHz
+Core 2:         800.015 MHz
+Core 3:         800.141 MHz
+Core 4:         800.048 MHz
+Core 5:         801.032 MHz
+Core 6:         800.083 MHz
+Core 7:         800.056 MHz
+Core 8:         800.040 MHz
+Core 9:         800.000 MHz
+Core 10:        800.033 MHz
+Core 11:        800.033 MHz
+
+psys:             5.490 W
+dram:             1.140 W
+core:             0.062 W
+dram:             1.141 W
+package-0:        1.409 W
+uncore:           0.044 W
+package-0:        1.409 W
+
+Package id 0:    36.000°C
+Core 0:          34.000°C
+Core 1:          34.000°C
+Core 2:          34.000°C
+Core 3:          33.000°C
+Core 4:          34.000°C
+Core 5:          34.000°C
+
+Core 0:         800.036 MHz
+Core 1:         800.801 MHz
+Core 2:         800.021 MHz
+Core 3:         800.187 MHz
+Core 4:         800.049 MHz
+Core 5:         800.508 MHz
+Core 6:         800.090 MHz
+Core 7:         799.581 MHz
+Core 8:         800.094 MHz
+Core 9:         800.153 MHz
+Core 10:        800.032 MHz
+Core 11:        800.080 MHz
+
+psys:             5.373 W
+dram:             1.134 W
+core:             0.035 W
+dram:             1.134 W
+package-0:        1.366 W
+uncore:           0.034 W
+package-0:        1.366 W
+
+Package id 0:    36.000°C
+Core 0:          34.000°C
+Core 1:          34.000°C
+Core 2:          33.000°C
+Core 3:          33.000°C
+Core 4:          33.000°C
+Core 5:          34.000°C
+
+Core 0:         800.195 MHz
+Core 1:         800.453 MHz
+Core 2:         800.012 MHz
+Core 3:         800.135 MHz
+Core 4:         800.063 MHz
+Core 5:         800.888 MHz
+Core 6:         800.099 MHz
+Core 7:         800.043 MHz
+Core 8:         800.092 MHz
+Core 9:         800.387 MHz
+Core 10:        800.037 MHz
+Core 11:        800.120 MHz
+
+psys:             5.687 W
+dram:             1.137 W
+core:             0.055 W
+dram:             1.137 W
+package-0:        1.453 W
+uncore:           0.047 W
+package-0:        1.453 W
+
+Package id 0:    36.000°C
+Core 0:          34.000°C
+Core 1:          34.000°C
+Core 2:          33.000°C
+Core 3:          33.000°C
+Core 4:          33.000°C
+Core 5:          34.000°C
+
+Core 0:         800.088 MHz
+Core 1:         800.597 MHz
+Core 2:         800.022 MHz
+Core 3:         800.198 MHz
+Core 4:         800.087 MHz
+Core 5:         801.534 MHz
+Core 6:         800.047 MHz
+Core 7:         799.565 MHz
+Core 8:         800.133 MHz
+Core 9:         800.244 MHz
+Core 10:        800.035 MHz
+Core 11:        800.044 MHz
+
+psys:             5.617 W
+dram:             1.139 W
+core:             0.056 W
+dram:             1.138 W
+package-0:        1.421 W
+uncore:           0.033 W
+package-0:        1.422 W
+
+Package id 0:    36.000°C
+Core 0:          34.000°C
+Core 1:          33.000°C
+Core 2:          33.000°C
+Core 3:          33.000°C
+Core 4:          33.000°C
+Core 5:          34.000°C
+
+Core 0:         800.042 MHz
+Core 1:         800.465 MHz
+Core 2:         800.016 MHz
+Core 3:         800.266 MHz
+Core 4:         800.044 MHz
+Core 5:         800.843 MHz
+Core 6:         800.089 MHz
+Core 7:         799.979 MHz
+Core 8:         800.084 MHz
+Core 9:         800.295 MHz
+Core 10:        800.035 MHz
+Core 11:        800.063 MHz
+
+psys:             5.415 W
+dram:             1.134 W
+core:             0.053 W
+dram:             1.134 W
+package-0:        1.385 W
+uncore:           0.033 W
+package-0:        1.384 W
+
+Package id 0:    36.000°C
+Core 0:          34.000°C
+Core 1:          34.000°C
+Core 2:          33.000°C
+Core 3:          34.000°C
+Core 4:          34.000°C
+Core 5:          34.000°C
+
+Core 0:         800.110 MHz
+Core 1:         799.950 MHz
+Core 2:         800.013 MHz
+Core 3:         800.303 MHz
+Core 4:         800.080 MHz
+Core 5:         800.817 MHz
+Core 6:         800.363 MHz
+Core 7:         800.357 MHz
+Core 8:         800.132 MHz
+Core 9:         800.101 MHz
+Core 10:        800.034 MHz
+Core 11:        800.039 MHz
+
+psys:             5.640 W
+dram:             1.140 W
+core:             0.066 W
+dram:             1.141 W
+package-0:        1.405 W
+uncore:           0.042 W
+package-0:        1.405 W
+
+Package id 0:    35.000°C
+Core 0:          33.000°C
+Core 1:          33.000°C
+Core 2:          33.000°C
+Core 3:          33.000°C
+Core 4:          33.000°C
+Core 5:          34.000°C
+
+Core 0:         800.073 MHz
+Core 1:         799.985 MHz
+Core 2:         800.024 MHz
+Core 3:         800.367 MHz
+Core 4:         800.047 MHz
+Core 5:         800.904 MHz
+Core 6:         800.026 MHz
+Core 7:         800.000 MHz
+Core 8:         800.243 MHz
+Core 9:         800.025 MHz
+Core 10:        800.030 MHz
+Core 11:        800.002 MHz
+
+psys:             5.858 W
+dram:             1.141 W
+core:             0.063 W
+dram:             1.140 W
+package-0:        1.442 W
+uncore:           0.033 W
+package-0:        1.443 W
+
+Package id 0:    36.000°C
+Core 0:          33.000°C
+Core 1:          33.000°C
+Core 2:          33.000°C
+Core 3:          33.000°C
+Core 4:          34.000°C
+Core 5:          34.000°C
+
+Core 0:         799.354 MHz
+Core 1:         800.088 MHz
+Core 2:         823.423 MHz
+Core 3:         800.005 MHz
+Core 4:         815.254 MHz
+Core 5:         817.857 MHz
+Core 6:         800.107 MHz
+Core 7:         800.516 MHz
+Core 8:         821.621 MHz
+Core 9:         820.952 MHz
+Core 10:        800.128 MHz
+Core 11:        800.049 MHz
+
+psys:             5.571 W
+dram:             1.149 W
+core:             0.057 W
+dram:             1.149 W
+package-0:        1.418 W
+uncore:           0.058 W
+package-0:        1.418 W
+
+Package id 0:    36.000°C
+Core 0:          33.000°C
+Core 1:          34.000°C
+Core 2:          32.000°C
+Core 3:          33.000°C
+Core 4:          34.000°C
+Core 5:          34.000°C
+
+Core 0:         800.158 MHz
+Core 1:         800.109 MHz
+Core 2:         820.952 MHz
+Core 3:         817.857 MHz
+Core 4:         828.571 MHz
+Core 5:         820.952 MHz
+Core 6:         800.009 MHz
+Core 7:         798.903 MHz
+Core 8:         826.923 MHz
+Core 9:         800.003 MHz
+Core 10:        800.060 MHz
+Core 11:        800.086 MHz
+
+psys:             5.496 W
+dram:             1.145 W
+core:             0.061 W
+dram:             1.145 W
+package-0:        1.414 W
+uncore:           0.044 W
+package-0:        1.415 W
+
+Package id 0:    36.000°C
+Core 0:          33.000°C
+Core 1:          33.000°C
+Core 2:          33.000°C
+Core 3:          33.000°C
+Core 4:          33.000°C
+Core 5:          34.000°C
+
+Core 0:         799.878 MHz
+Core 1:         800.431 MHz
+Core 2:         820.952 MHz
+Core 3:         827.777 MHz
+Core 4:         799.532 MHz
+Core 5:         822.857 MHz
+Core 6:         800.027 MHz
+Core 7:         799.866 MHz
+Core 8:         801.538 MHz
+Core 9:         800.036 MHz
+Core 10:        800.021 MHz
+Core 11:        800.044 MHz
+
+psys:             5.686 W
+dram:             1.144 W
+core:             0.055 W
+dram:             1.145 W
+package-0:        1.445 W
+uncore:           0.039 W
+package-0:        1.443 W
+
+Package id 0:    35.000°C
+Core 0:          33.000°C
+Core 1:          33.000°C
+Core 2:          33.000°C
+Core 3:          33.000°C
+Core 4:          33.000°C
+Core 5:          33.000°C
+
+Core 0:         799.665 MHz
+Core 1:         800.169 MHz
+Core 2:         800.004 MHz
+Core 3:         826.923 MHz
+Core 4:         814.285 MHz
+Core 5:         819.469 MHz
+Core 6:         800.059 MHz
+Core 7:         799.633 MHz
+Core 8:         820.952 MHz
+Core 9:         821.621 MHz
+Core 10:        800.033 MHz
+Core 11:        800.037 MHz
+
+psys:             6.098 W
+dram:             1.189 W
+core:             0.149 W
+dram:             1.188 W
+package-0:        1.634 W
+uncore:           0.056 W
+package-0:        1.634 W
+
+Package id 0:    36.000°C
+Core 0:          33.000°C
+Core 1:          34.000°C
+Core 2:          33.000°C
+Core 3:          33.000°C
+Core 4:          33.000°C
+Core 5:          34.000°C
+
+Core 0:         824.137 MHz
+Core 1:         800.018 MHz
+Core 2:         800.007 MHz
+Core 3:         800.070 MHz
+Core 4:         800.017 MHz
+Core 5:         799.124 MHz
+Core 6:         800.042 MHz
+Core 7:         800.024 MHz
+Core 8:         800.000 MHz
+Core 9:         838.461 MHz
+Core 10:        800.100 MHz
+Core 11:        800.046 MHz
+
+psys:             8.534 W
+dram:             1.319 W
+core:             0.814 W
+dram:             1.319 W
+package-0:        3.500 W
+uncore:           1.218 W
+package-0:        3.500 W
+
+Package id 0:    36.000°C
+Core 0:          35.000°C
+Core 1:          34.000°C
+Core 2:          34.000°C
+Core 3:          33.000°C
+Core 4:          34.000°C
+Core 5:          34.000°C
+
+Core 0:         800.075 MHz
+Core 1:         800.070 MHz
+Core 2:         800.009 MHz
+Core 3:         800.134 MHz
+Core 4:         800.510 MHz
+Core 5:         832.204 MHz
+Core 6:         800.185 MHz
+Core 7:         799.602 MHz
+Core 8:         800.300 MHz
+Core 9:         914.281 MHz
+Core 10:        800.460 MHz
+Core 11:        800.035 MHz
